@@ -8,8 +8,8 @@ This repo contains one R script/function designed to load the UCI Machine Learni
 ## Usage
 In order to run this function, just source run_analysis.R and call run_analysis().
 
-This will return two data frames to your global environment: uci_har and summary_har.
+This will return two data frames to your global environment: **uci_har** and **summary_har**.
 
-For details on what is contained in uci_har please see the uci_har.md file.
+For details on what is contained in **uci_har** please see the uci_har.md file.
 
-For details on what is contained in summary_har please see the summary_har.md file.
+For details on what is contained in **summary_har** please see the summary_har.md file.
