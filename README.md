@@ -12,4 +12,4 @@ This will return two data frames to your global environment: **uci_har** and **s
 
 For details on what is contained in **uci_har** please see the [uci_har.md](uci_har.md) file.
 
-For details on what is contained in **summary_har** please see the summary_har.md file.
+For details on what is contained in **summary_har** please see the [summary_har.md](summary_har.md) file.
